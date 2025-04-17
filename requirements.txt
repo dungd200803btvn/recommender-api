@@ -1,6 +1,8 @@
+numpy==1.26.4
+scipy==1.11.4
+cython==3.0.10
+lightfm==1.16
 flask
-scikit-learn
-lightfm
-numpy
+gunicorn
 pandas
-joblib
+scikit-learn

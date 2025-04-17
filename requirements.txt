@@ -1,8 +1,8 @@
 numpy==1.26.4
 scipy==1.11.4
 cython==3.0.10
-lightfm==1.16
-flask
-gunicorn
-pandas
-scikit-learn
+lightfm @ git+https://github.com/lyst/lightfm.git
+flask==2.3.3
+gunicorn==21.2.0
+pandas==2.2.1
+scikit-learn==1.4.2
